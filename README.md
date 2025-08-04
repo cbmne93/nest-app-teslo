@@ -21,3 +21,5 @@ http://localhost:3000/api/seed
 ```
 
 7. Levantar `npm run start:dev`
+
+# Production notes:
