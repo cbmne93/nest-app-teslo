@@ -19,7 +19,7 @@ export class PaginationDto {
   })
   @IsOptional()
   @Min(0)
-  @Type(() => Number) // enableImplicitConversions: true
+  @Type(() => Number)
   offset?: number;
 
   @ApiProperty({
